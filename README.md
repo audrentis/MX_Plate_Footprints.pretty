@@ -1,6 +1,10 @@
 # MX_Plate_Footprints.pretty
 footprints for various MX-style cutouts, with unit (19.05mm) marking around each cutout on Dwgs.User for easy alignment
-includes;
+
+# Disclaimer
+Currently reworking, use at your own risk 
+
+## Contents
 * 1u
 * 1.25u
 * 1.5u
