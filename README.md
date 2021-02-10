@@ -3,7 +3,7 @@ footprints for various MX-style cutouts, with unit (19.05mm) markings around eac
 
 # Disclaimer
 Currently reworking, use at your own risk 
-
+[!render img](https://github.com/audrentis/MX_Plate_Footprints.pretty/blob/main/example.png)
 ## Contents
 * 1u
 * 1.25u
